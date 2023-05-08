@@ -1,17 +1,6 @@
 .navbar{
+    background-color: blanchedalmond;
+}
+.form btn{
     background-color: blueviolet;
-}
-
-#side1{
-    background-color: #bc7171;
-}
-
-.list-group li{
-    background-color: #bc7171;
-    border:none;
-    border-radius: 10px;
-}
-
-.list-group li a{
-    color: #a80f87;
 }
